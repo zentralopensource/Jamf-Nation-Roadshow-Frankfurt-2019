@@ -33,10 +33,10 @@ Here you'll find the [english version](./pdf/Jamf-Nation-Roadshow-Frankfurt-2019
 
 - Jamf Marketplace - https://marketplace.jamf.com/apps/?category=Integrations&tags=Business%20Intelligence
 - Jamf open source projects - https://jamf.github.io/
+- Jamf open source projects#2 - https://github.com/jamf
 
 ### Extra reporting - example projects
 
-- Jamf Pro open source - 
 - Create CSV from Jamf Pro inventory (iOS apps) - https://github.com/nstrauss/jamf-cat-report
 - Create CSV or XLSX from Jamf Pro inventory (advanced report builder) - https://github.com/zentralopensource/zentral/
 
