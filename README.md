@@ -66,6 +66,7 @@ Here you'll find the [english version](./pdf/Jamf-Nation-Roadshow-Frankfurt-2019
 
 - Apple Developer ID - https://developer.apple.com/developer-id/
 - Apple Developer Security - https://developer.apple.com/documentation/security/notarizing_your_app_before_distribution
+- Jamf blogpost on Notarization - https://www.jamf.com/blog/things-you-should-know-about-app-notarization/
 
 ### Privacy Preference Policy Control
 
