@@ -39,6 +39,7 @@ Here you'll find the [english version](./pdf/Jamf-Nation-Roadshow-Frankfurt-2019
 
 - Create CSV from Jamf Pro inventory (iOS apps) - https://github.com/nstrauss/jamf-cat-report
 - Create CSV or XLSX from Jamf Pro inventory (advanced report builder) - https://github.com/zentralopensource/zentral/
+- Grafana dashboards from MySQL data - https://github.com/krypted/Jamf_Grafana
 
 ### Data-Warehouse solutions (SaaS)
 
